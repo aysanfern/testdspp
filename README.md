@@ -5,4 +5,4 @@
 
 
 ## ML Projects
-
+![histogram](/images/histogram-example-2.png)
